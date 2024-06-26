@@ -1,4 +1,4 @@
-# bike-repair-stations
+# bicycle-repair-stations
 Work in Progress
 
 ## overpass query
