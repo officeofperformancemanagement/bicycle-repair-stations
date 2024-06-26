@@ -1,0 +1,4 @@
+@id,amenity,@lat,@lon,opening_hours,brand,fee,service:bicycle:pump,service:bicycle:tools
+5741907080,bicycle_repair_station,35.0198382,-85.3235760,24/7,Dero,,yes,yes
+5764372088,bicycle_repair_station,35.0504383,-85.3236950,,,,,
+10157387077,bicycle_repair_station,35.0409244,-85.3075569,,,no,yes,
