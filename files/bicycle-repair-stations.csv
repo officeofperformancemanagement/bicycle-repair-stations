@@ -1,15 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
-
-</body>
-</html>
+@id,amenity,@lat,@lon,opening_hours,brand,fee,service:bicycle:pump,service:bicycle:tools
+5741907080,bicycle_repair_station,35.0196765,-85.3237756,24/7,Dero,,yes,yes
+5764372088,bicycle_repair_station,35.0504383,-85.3236950,,,,,
+10157387077,bicycle_repair_station,35.0409244,-85.3075569,,,no,yes,
+12186820014,bicycle_repair_station,35.0081450,-85.3281720,,,no,yes,yes
+12187024522,bicycle_repair_station,35.0614180,-85.3065636,,,,,
+12737780368,bicycle_repair_station,35.0085861,-85.3231660,,,no,yes,yes
